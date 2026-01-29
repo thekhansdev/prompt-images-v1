@@ -161,6 +161,4 @@
     "category": "place",
     "prompt": "Generate a 4K HD ultra-realistic portrait of a stylish Indian man wearing a pastel casual shirt, beige chinos, and a backpack. Pose: standing outdoors, looking sideways with slight smile. Hair: neat, short stubble. Background: blurred mountains or famous city landmark for travel vibe. Lighting: bright natural outdoor light with soft shadows. Skin tone: natural Indian complexion with realistic pores and texture. Focus on fashionable ultra-hot travel lifestyle Instagram vibe, sharp focus on face with cinematic depth."
   }
-
-
 ]
